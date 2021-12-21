@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ugur
+- 👀 I’m interested in web apllication development and security
+- 🌱 I’m currently learning Python, Django
